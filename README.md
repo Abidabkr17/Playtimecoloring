@@ -1,4 +1,4 @@
-  {
+{
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
   "admob_banner": "ca-app-pub-3940256099942544/6300978111",
   "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
@@ -23,12 +23,12 @@
     "15.png",
     "16.png",
     "https://drive.google.com/uc?export=download&id=18OhIhNjrg7UIYNJwns02xeCASkhUOqMU",
-    "https://drive.google.com/uc?export=download&id=1B2_dC1p6PwWYFiQRQCzpYcRAWf58uKg8"
-    "https://drive.google.com/uc?export=download&id=1B2_dC1p6PwWYFiQRQCzpYcRAWf58uKg8"
-    "https://drive.google.com/uc?export=download&id=1B2_dC1p6PwWYFiQRQCzpYcRAWf58uKg8"
-    "https://drive.google.com/uc?export=download&id=1B2_dC1p6PwWYFiQRQCzpYcRAWf58uKg8"
-    "https://drive.google.com/uc?export=download&id=1B2_dC1p6PwWYFiQRQCzpYcRAWf58uKg8"
-    "https://drive.google.com/uc?export=download&id=1B2_dC1p6PwWYFiQRQCzpYcRAWf58uKg8"
+    "https://drive.google.com/uc?export=download&id=1B2_dC1p6PwWYFiQRQCzpYcRAWf58uKg8",
+    "https://drive.google.com/uc?export=download&id=1B2_dC1p6PwWYFiQRQCzpYcRAWf58uKg8",
+    "https://drive.google.com/uc?export=download&id=1B2_dC1p6PwWYFiQRQCzpYcRAWf58uKg8",
+    "https://drive.google.com/uc?export=download&id=1B2_dC1p6PwWYFiQRQCzpYcRAWf58uKg8",
+    "https://drive.google.com/uc?export=download&id=1B2_dC1p6PwWYFiQRQCzpYcRAWf58uKg8",
+    "https://drive.google.com/uc?export=download&id=1B2_dC1p6PwWYFiQRQCzpYcRAWf58uKg8",
     "https://drive.google.com/uc?export=download&id=1B2_dC1p6PwWYFiQRQCzpYcRAWf58uKg8"
   ],
   "ballet_coloring": [
@@ -36,12 +36,9 @@
     "2.png",
     "3.png",
     "4.png",
+    "https://drive.google.com/uc?export=download&id=1B2_dC1p6PwWYFiQRQCzpYcRAWf58uKg8",
+    "https://drive.google.com/uc?export=download&id=1B2_dC1p6PwWYFiQRQCzpYcRAWf58uKg8",
+    "https://drive.google.com/uc?export=download&id=1B2_dC1p6PwWYFiQRQCzpYcRAWf58uKg8",
     "https://drive.google.com/uc?export=download&id=1B2_dC1p6PwWYFiQRQCzpYcRAWf58uKg8"
-    "https://drive.google.com/uc?export=download&id=1B2_dC1p6PwWYFiQRQCzpYcRAWf58uKg8"
-    "https://drive.google.com/uc?export=download&id=1B2_dC1p6PwWYFiQRQCzpYcRAWf58uKg8"
-    "https://drive.google.com/uc?export=download&id=1B2_dC1p6PwWYFiQRQCzpYcRAWf58uKg8"
-  ]
-}
-    }
   ]
 }
